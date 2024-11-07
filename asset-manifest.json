@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sbkv165/myapp2.git/static/css/main.18a51d99.css",
+    "main.js": "/Sbkv165/myapp2.git/static/js/main.4b4a4e26.js",
+    "static/js/453.c8013b39.chunk.js": "/Sbkv165/myapp2.git/static/js/453.c8013b39.chunk.js",
+    "index.html": "/Sbkv165/myapp2.git/index.html",
+    "main.18a51d99.css.map": "/Sbkv165/myapp2.git/static/css/main.18a51d99.css.map",
+    "main.4b4a4e26.js.map": "/Sbkv165/myapp2.git/static/js/main.4b4a4e26.js.map",
+    "453.c8013b39.chunk.js.map": "/Sbkv165/myapp2.git/static/js/453.c8013b39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a51d99.css",
+    "static/js/main.4b4a4e26.js"
+  ]
+}
